@@ -1,12 +1,8 @@
-# <img src="https://imgur.com/X4HdxWx.png"  width="50px" align="center" alt="Logo Explorer em formato de Hexagono Azul com detalhes azul claro"> Explorer - Projeto 01 
-
-### **RocketNotes API - Projeto Backend**
+# **RocketNotes API - Projeto Backend**
 
 ### 📌 Projeto de uma **Application Programming Interface - API**, onde construimos uma API completa utilizando Node.js e Express. Utilizamos o Insomnia para cadastrar nossas rotas e verificar os status codes das mesmas. Criamos um banco de dados utilizando SQLite, manipulamos o nosso DB utilizando a ferramenta **Beekeper Studio** juntamente com o **Query Builder Knex.js**.
 
-# <br>:book: Aprendizados
-
-### <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
+# <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
   Desenvolvemos toda a estrutura do nosso projeto Node em modulos separados para escalabilidade e facilitar a manutenção da nossa aplicação. Trabalhamos com o Express para requisições HTTP e rotas para acessar os arquivos do controller e funcionalidades. É uma aplicação em que o usuário poderá cadastrar notas, com tags e links vinculados a nota. O usuário poderá fazer buscas de notas e tags , bem como lista-las.
 
@@ -54,7 +50,7 @@
   **$ git clone**
 
 - Instalando node_modules
-  **$ npm init -y**
+  **$ npm install**
 
 - Inicializando projeto
   **$ npm start**
@@ -68,13 +64,6 @@
 ## 📚 Stack utilizada
 
 ## <img src="" width="42px" align="center">  **JS**
-## <img src="" width="42px" align="center">  **Node.js**
-## <img src="" width="42px" align="center">  **Express.js**
-## <img src="" width="42px" align="center">  **SQLite**
-## <img src="" width="42px" align="center">  **Knex**
-
-
-## Screenshots
-
-<img src="">
-
+## <img align="center" alt="RodrigoLuigi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+## <img align="center" alt="Rodrigo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+## <img align="center" alt="RodrigoLuigi-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
