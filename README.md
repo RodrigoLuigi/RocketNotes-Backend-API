@@ -1,6 +1,6 @@
 # **RocketNotes API - Projeto Backend**
 
-### 📌 Projeto de uma **Application Programming Interface - API**, onde construimos uma API completa utilizando Node.js e Express. Utilizamos o Insomnia para cadastrar nossas rotas e verificar os status codes das mesmas. Criamos um banco de dados utilizando SQLite, manipulamos o nosso DB utilizando a ferramenta **Beekeper Studio** juntamente com o **Query Builder Knex.js**.
+### 📌 Projeto de uma **Application Programming Interface - API**, onde construimos uma API completa utilizando Node.js e Express. Utilizamos o Insomnia para cadastrar nossas rotas e verificar os status code das mesmas. Criamos um banco de dados utilizando SQLite, manipulamos o nosso DB utilizando a ferramenta **Beekeper Studio** juntamente com o **Query Builder Knex.js**.
 
 # <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
@@ -63,7 +63,7 @@
 
 ## 📚 Stack utilizada
 
-## <img src="" width="42px" align="center">  **JS**
+## <img align="center" alt="RodrigoLuigi-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 ## <img align="center" alt="RodrigoLuigi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 ## <img align="center" alt="Rodrigo-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 ## <img align="center" alt="RodrigoLuigi-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
