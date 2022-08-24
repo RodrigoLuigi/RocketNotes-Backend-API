@@ -1,6 +1,6 @@
 # **RocketNotes API - Projeto Backend**
 
-### 📌 Projeto de uma **Application Programming Interface - API**, onde construimos uma API completa utilizando Node.js e Express. Utilizamos o Insomnia para cadastrar nossas rotas e verificar os status code das mesmas. Criamos um banco de dados utilizando SQLite, manipulamos o nosso DB utilizando a ferramenta **Beekeper Studio** juntamente com o **Query Builder Knex.js**.
+### 📌 Projeto de uma **Application Programming Interface - API**, onde foi desenvolvido uma API completa utilizando Node.js e Express. Foi utilizado o Insomnia para cadastrar nossas rotas e verificar os status code das mesmas. Criação de um banco de dados utilizando SQLite, e manipulação do nosso DB utilizando a ferramenta **Beekeper Studio** juntamente com o **Query Builder Knex.js**.
 
 # <img src="https://imgur.com/VhTBbHg.png" alt="imagem de um notebook" align="center" width="30px"> _**O que desenvolvemos neste Projeto?**_
 
